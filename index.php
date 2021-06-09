@@ -1,8 +1,8 @@
 <?php
 
-require_once 'includes/autoload.php';
+require_once 'classes/Exercicio5/Exercicio5.php';
 
-$exercicio5 = new Exercicio5\Exercicio5();
+$exercicio5 = new Exercicio5();
 
 $xmlFile = 'xml/books.xml';
 $csvPath = '/csv';

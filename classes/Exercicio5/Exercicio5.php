@@ -1,7 +1,5 @@
 <?php
 
-namespace Exercicio5;
-
 class Exercicio5
 {
 
